@@ -2,8 +2,8 @@
 
 1. Customer Sales Report:
   - The report consist of sales of Fisical Year 2019, 2020, 2021 abd copared with the earlier fisical year.
-    
-<img src="https://private-user-images.githubusercontent.com/28141061/352805848-d1b1bfd1-a3c1-4cc4-a6d8-aca3e4b89b27.jpg" width="200" height="400"/>
+  
+  ![CustomerSalesReport_SK-images-0](https://github.com/user-attachments/assets/5284c58c-82d4-4e98-96d6-c370d60ce7fb)
 
-![CustomerSalesReport_SK-images-0](https://github.com/user-attachments/assets/d1b1bfd1-a3c1-4cc4-a6d8-aca3e4b89b27) 
-<img src="https://github.com/shubhamkhera/CodeBasicsExcel/issues/1#issue-2433890078"/>
+    
+    ![CustomerSalesReport_SK-images-0](https://github.com/user-attachments/assets/d1b1bfd1-a3c1-4cc4-a6d8-aca3e4b89b27) 
